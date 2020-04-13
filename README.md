@@ -45,6 +45,7 @@ SCREENSHOTS:
 
 DEPLOYED LINK:
 
+https://christinedang.github.io/liri-node-app/
 
 TECHNOLOGIES USED:
 * dotenv
