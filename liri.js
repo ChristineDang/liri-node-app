@@ -94,19 +94,20 @@ function movieSearch(title) {
         console.log("\nMovie Title: " + info.Title);
         console.log("\nRelease Year: " + info.Year);
         console.log("\nIMDB Rating: " + info.Ratings[0].Value);
-        // console.log("\nRotten Tomatoes: " + info.Ratings[1].Value);
+        console.log("\nRotten Tomatoes: " + info.Ratings[1].Value);
         console.log("\nCountry of Origin: " + info.Country);
         console.log("\nLanguage: " + info.Language);
         console.log("\nMovie Plot: " + info.Plot);
         console.log("\nActors/Actresses: " + info.Actors);
     })
 }
-
+//do-what-it-says
 function doWhatItSays(){
-  fs.readFile('random.txt', function(err, data){
+  fs.readFile("random.txt", "UTF8", function(err, data){
+      if(err) {
+          console.log(err)
+      };
     var dataInfo = data.split(",");
-    if(dataInfo[0] === 'spotify-this-song'){
-      console.log('hello')
-    } //implementing split function in JS
+      spotifySearch(dataInfo[1]);
  });
 }

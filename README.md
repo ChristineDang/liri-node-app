@@ -30,6 +30,18 @@ NOTE: When searching for a movie that has two or more words in the title, type %
 
 SCREENSHOTS:
 
+1. concert-this (band/artist's name)
+![Screen Shot 2020-04-13 at 6 22 15 PM](https://user-images.githubusercontent.com/59538550/79167314-2ca84800-7db5-11ea-8fb6-92dbb96425e1.png)
+2. spotify-this-song (song name)
+![Screen Shot 2020-04-13 at 6 23 24 PM](https://user-images.githubusercontent.com/59538550/79167319-2dd97500-7db5-11ea-94b7-f8ead4b9394e.png)
+3. movie-this
+![Screen Shot 2020-04-13 at 6 24 51 PM](https://user-images.githubusercontent.com/59538550/79167321-2dd97500-7db5-11ea-9ce8-f7228b896d3d.png)
+4. movie-this (movie title)
+![Screen Shot 2020-04-13 at 6 25 36 PM](https://user-images.githubusercontent.com/59538550/79167323-2e720b80-7db5-11ea-9f46-5f4f44d8cf8e.png)
+5. do-what-it-says
+![Screen Shot 2020-04-13 at 7 22 27 PM](https://user-images.githubusercontent.com/59538550/79170087-531db180-7dbc-11ea-97d1-3e49cf0c4386.png)
+
+
 
 DEPLOYED LINK:
 
