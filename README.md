@@ -29,10 +29,11 @@ NOTE: When searching for a movie that has two or more words in the title, type %
 4. Finally, hit enter, and your results will pop up within a second.
 
 SCREENSHOTS:
-![Screen Shot 2020-04-13 at 6 22 15 PM](https://user-images.githubusercontent.com/59538550/79167314-2ca84800-7db5-11ea-8fb6-92dbb96425e1.png)
-![Screen Shot 2020-04-13 at 6 23 24 PM](https://user-images.githubusercontent.com/59538550/79167319-2dd97500-7db5-11ea-94b7-f8ead4b9394e.png)
-![Screen Shot 2020-04-13 at 6 24 51 PM](https://user-images.githubusercontent.com/59538550/79167321-2dd97500-7db5-11ea-9ce8-f7228b896d3d.png)
-![Screen Shot 2020-04-13 at 6 25 36 PM](https://user-images.githubusercontent.com/59538550/79167323-2e720b80-7db5-11ea-9f46-5f4f44d8cf8e.png)
+
+1. ![Screen Shot 2020-04-13 at 6 22 15 PM](https://user-images.githubusercontent.com/59538550/79167314-2ca84800-7db5-11ea-8fb6-92dbb96425e1.png)
+2. ![Screen Shot 2020-04-13 at 6 23 24 PM](https://user-images.githubusercontent.com/59538550/79167319-2dd97500-7db5-11ea-94b7-f8ead4b9394e.png)
+3. ![Screen Shot 2020-04-13 at 6 24 51 PM](https://user-images.githubusercontent.com/59538550/79167321-2dd97500-7db5-11ea-9ce8-f7228b896d3d.png)
+4. ![Screen Shot 2020-04-13 at 6 25 36 PM](https://user-images.githubusercontent.com/59538550/79167323-2e720b80-7db5-11ea-9f46-5f4f44d8cf8e.png)
 
 DEPLOYED LINK:
 
