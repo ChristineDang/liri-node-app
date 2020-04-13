@@ -37,7 +37,7 @@ SCREENSHOTS:
 3. movie-this
 ![Screen Shot 2020-04-13 at 6 24 51 PM](https://user-images.githubusercontent.com/59538550/79167321-2dd97500-7db5-11ea-9ce8-f7228b896d3d.png)
 4. movie-this (movie title)
-![Screen Shot 2020-04-13 at 6 25 36 PM](https://user-images.githubusercontent.com/59538550/79167323-2e720b80-7db5-11ea-9f46-5f4f44d8cf8e.png)
+![Screen Shot 2020-04-13 at 7 25 56 PM](https://user-images.githubusercontent.com/59538550/79170203-b0b1fe00-7dbc-11ea-927a-aecf64eb4cca.png)
 5. do-what-it-says
 ![Screen Shot 2020-04-13 at 7 22 27 PM](https://user-images.githubusercontent.com/59538550/79170087-531db180-7dbc-11ea-97d1-3e49cf0c4386.png)
 
