@@ -1,13 +1,13 @@
 # liri-node-app
 
 ABOUT:
-The Liri Node App is a _Language_ Interpretation and Recognition Interface, that allows users to search for information on concerts, songs, and movies. It pulls out the main information that users are looking for from the Spotify, Bands In Town, and OMDB, omits any excess information, and gives it to them in one condensed location.
+* The Liri Node App is a _Language_ Interpretation and Recognition Interface, that allows users to search for information on concerts, songs, and movies. It pulls out the main information that users are looking for from the Spotify, Bands In Town, and OMDB, omits any excess information, and gives it to them in one condensed location.
 
 APP OVERVIEW:
-The app is organized into 3 main sections:
-    1. The top holding constants and variables.
-    2. A switch statement that matches each expression to the corresponding case and executes the correct function.
-    3. The 4 functions for concert-this, spotify-this-song, movie-this, and do-what-it-says, with parameters, only pulling the main points/information from each API and displaying it via console.log().
+* The app is organized into 3 main sections:
+1. The top holding constants and variables.
+2. A switch statement that matches each expression to the corresponding case and executes the correct function.
+3. The 4 functions for concert-this, spotify-this-song, movie-this, and do-what-it-says, with parameters, only pulling the main points/information from each API and displaying it via console.log().
 
 HOW TO USE:
 1. Open the Terminal or Command Prompt on your computer, and go to the "liri-node-app" file folder.
