@@ -58,4 +58,4 @@ TECHNOLOGIES USED:
 * Bands In Town API
 
 DEVELOPER:
-Christine Dang, full app developer
+* Christine Dang, full app developer
