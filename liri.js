@@ -82,9 +82,9 @@ function movieSearch(title) {
     var mainURL = "http://www.omdbapi.com/";
     var apikey = "?apikey=trilogy&";
 
-    if(title == null){title = "Mr.Nobody"};
+    if(title == null){title = "Mr.Nobody"
         console.log("\nIf you haven't watched Mr. Nobody, then you should: <http://www.imdb.com/title/tt0485947/>");
-        console.log("It's on Netflix!")
+        console.log("It's on Netflix!") };
     var request = mainURL + apikey + "t=" + title;
 
     axios.get(request)
