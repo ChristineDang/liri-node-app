@@ -31,7 +31,7 @@ switch(command) {
       break;
     
     default:
-      console.log("hello");
+      console.log("Hello! Please enter in concert-this, spotify-this-song, movie-this, or do-what-it-says, after node liri.js, to search for what you are looking for. After entering in the commands, type the name/title of what you want to search for.");
 }
 
 //Bands In Town
